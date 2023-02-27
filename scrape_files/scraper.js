@@ -10,34 +10,41 @@ const puppeteer = require("puppeteer");
   // creates the new page
   const page = await browser.newPage()
   // specifies what url to go to
-  await page.goto("https://www.corcoran.com/search/for-sale/location/northwest-harris-tx-17534130/regionId/119", {waitUntil: 'domcontentloaded'})
+  await page.goto("https://www.corcoran.com/search/for-sale/location/northwest-harris-tx-17534130/regionId/119", {waitUntil: "domcontentloaded"})
 
 
   await page.click("#scroll-section > div:nth-child(n) > ul > li")
     
-  await page.waitForSelector('#__next > div.PageLayout__PageWrapper-sc-cb3fc24f-0.fxveZB > main > div.Listing__DesktopWrapper-sc-6e47b3d6-1.MAfZc > section > div.MainListingInfo__LeftCol-sc-f9f9c32c-1.fpWQJG')
+  await page.waitForSelector("#__next > div.PageLayout__PageWrapper-sc-cb3fc24f-0.fxveZB > main > div.Listing__DesktopWrapper-sc-6e47b3d6-1.MAfZc > section > div.MainListingInfo__LeftCol-sc-f9f9c32c-1.fpWQJG")
+
+  await page.waitForSelector("body")
 
   const grabContent = await page.evaluate(() => {
     
-    const content = document.querySelectorAll('#__next > div.PageLayout__PageWrapper-sc-cb3fc24f-0.fxveZB > main > div.Listing__DesktopWrapper-sc-6e47b3d6-1.MAfZc > section > div.MainListingInfo__LeftCol-sc-f9f9c32c-1.fpWQJG')
+    // const content = document.querySelectorAll('#__next > div.PageLayout__PageWrapper-sc-cb3fc24f-0.fxveZB > main > div.Listing__DesktopWrapper-sc-6e47b3d6-1.MAfZc > section > div.MainListingInfo__LeftCol-sc-f9f9c32c-1.fpWQJG')
+
+    const content = document.querySelectorAll("body")
 
     const contArr = []
     content.forEach(() => {
-      const contComps = document.querySelectorAll("#__next > div.PageLayout__PageWrapper-sc-cb3fc24f-0.fxveZB > main > div.Listing__DesktopWrapper-sc-6e47b3d6-1.MAfZc > section > div.MainListingInfo__LeftCol-sc-f9f9c32c-1.fpWQJG")
+      // const contComps = document.querySelectorAll("#__next > div.PageLayout__PageWrapper-sc-cb3fc24f-0.fxveZB > main > div.Listing__DesktopWrapper-sc-6e47b3d6-1.MAfZc > section > div.MainListingInfo__LeftCol-sc-f9f9c32c-1.fpWQJG")
+
+      const contComps = document.querySelectorAll("#__next > div.PageLayout__PageWrapper-sc-cb3fc24f-0.fxveZB > main")
 
 
-      const a = contComps[0] 
-      // returns:
-      //  'Harris County, TX 77377\n' +
-      // 'FOR SALE | OTHER RESIDENTIAL | BUILT IN 2021\n' +
-      // '4 Beds\n' +
-      // '3 Baths/1 Half Bath\n' +
-      // '2529 Approx. Sqft\n' +
-      // 'Outdoor Space'
+      const a = contComps[0]
+      // returns: whole page info
+
+
+
+      const b = contComps[2]
+      // isnt returning anything prob needs to be a different selector or index
+      // maybe use to get the images
 
 
       contArr.push({
-        ind0: a?.innerText,
+        ind0: JSON.stringify(a?.innerText),
+        ind1: b?.innerText
 
       })
     })
