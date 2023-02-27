@@ -10,18 +10,21 @@ const puppeteer = require("puppeteer");
   // creates the new page
   const page = await browser.newPage()
   // specifies what url to go to
-  await page.goto("https://www.corcoran.com/listing/for-sale/21215-grey-bloom-avenue-tomball-tx-77377/74934783/regionId/119", {waitUntil: 'domcontentloaded'})
+  await page.goto("https://www.corcoran.com/search/for-sale/location/northwest-harris-tx-17534130/regionId/119", {waitUntil: 'domcontentloaded'})
 
 
-  // await page.click("#scroll-section > div:nth-child(n) > ul > li")
+  await page.click("#scroll-section > div:nth-child(n) > ul > li")
     
+  await page.waitForSelector('#__next > div.PageLayout__PageWrapper-sc-cb3fc24f-0.fxveZB > main > div.Listing__DesktopWrapper-sc-6e47b3d6-1.MAfZc > section > div.MainListingInfo__LeftCol-sc-f9f9c32c-1.fpWQJG')
 
   const grabContent = await page.evaluate(() => {
-    const content = document.querySelectorAll('main')
+    
+    const content = document.querySelectorAll('#__next > div.PageLayout__PageWrapper-sc-cb3fc24f-0.fxveZB > main > div.Listing__DesktopWrapper-sc-6e47b3d6-1.MAfZc > section > div.MainListingInfo__LeftCol-sc-f9f9c32c-1.fpWQJG')
 
     const contArr = []
     content.forEach(() => {
       const contComps = document.querySelectorAll("#__next > div.PageLayout__PageWrapper-sc-cb3fc24f-0.fxveZB > main > div.Listing__DesktopWrapper-sc-6e47b3d6-1.MAfZc > section > div.MainListingInfo__LeftCol-sc-f9f9c32c-1.fpWQJG")
+
 
       const a = contComps[0] 
       // returns:
