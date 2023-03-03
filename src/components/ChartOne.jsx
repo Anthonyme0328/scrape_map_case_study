@@ -1,5 +1,7 @@
 import React from 'react';
-import csvdata from '../csvjson.json'
+import csvdata from '../csvjson.json';
+import geo from './geo-coords.json';
+
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -27,28 +29,36 @@ ChartJS.register(
 
 const ChartOne = () => {
 
-  const Cities = Object.values(csvdata).map(
-    (data) => ({
+  let xData = csvdata.map((bath) => (
+    bath.bath
+  ))
 
-        citi: data.citi,
-      }))
+  let yData = csvdata.map((sleep) => (
+    sleep.bed
+  ))
+
+  let label = csvdata.map((place) => (
+    place.street
+  ))
+
+  
 
 
-// console.log(Cities)
 
   const data = {
-    labels: ["Jan", "Feb", "Mar", "Apr", "May", "Jun"],
+    labels: label,
     datasets: [
       {
-        label: "First dataset",
-        data: [33, 53, 85, 41, 44, 65],
-        backgroundColor: "rgba(75,192,192,0.2)",
-        borderColor: "rgba(75,192,192,1)"
+        label: "Bathrooms ",
+        data: xData,
+        backgroundColor: "red",
+        borderColor: "red"
       },
       {
-        label: "Second dataset",
-        data: [33, 25, 35, 51, 54, 76],
-        borderColor: "#742774"
+        label: "BedRooms ",
+        data: yData,
+        backgroundColor: "blue",
+        borderColor: "blue"
       }
     ]
   };
@@ -67,16 +77,6 @@ const ChartOne = () => {
       display: true,
       text: "Chart Title"
     },
-    scales: {
-      yAxes: [
-        {
-          ticks: {
-            suggestedMin: 0,
-            suggestedMax: 100
-          }
-        }
-      ]
-    }
   };
 
 

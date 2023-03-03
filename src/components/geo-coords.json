@@ -2,6 +2,9 @@
   "type": "FeatureCollection",
   "features": [
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "152",
+      "value": "Salton City, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -13,6 +16,9 @@
       }
     },
     {
+      "counts_locations": "5",
+      "average_price_price_sqft": "277",
+      "value": "Brawley, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -24,6 +30,9 @@
       }
     },
     {
+      "counts_locations": "1",
+      "average_price_price_sqft": "342",
+      "value": "Imperial, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -35,6 +44,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "151",
+      "value": "Calexico, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -46,6 +58,9 @@
       }
     },
     {
+      "counts_locations": "3",
+      "average_price_price_sqft": "231",
+      "value": "Gorman, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -57,6 +72,9 @@
       }
     },
     {
+      "counts_locations": "36",
+      "average_price_price_sqft": "195",
+      "value": "Frazier Park, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -68,6 +86,9 @@
       }
     },
     {
+      "counts_locations": "32",
+      "average_price_price_sqft": "232",
+      "value": "Rosamond, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -79,6 +100,9 @@
       }
     },
     {
+      "counts_locations": "3",
+      "average_price_price_sqft": "308",
+      "value": "Kernville, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -90,6 +114,9 @@
       }
     },
     {
+      "counts_locations": "43",
+      "average_price_price_sqft": "176",
+      "value": "Tehachapi, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -101,6 +128,9 @@
       }
     },
     {
+      "counts_locations": "5",
+      "average_price_price_sqft": "173",
+      "value": "Arvin, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -112,6 +142,9 @@
       }
     },
     {
+      "counts_locations": "20",
+      "average_price_price_sqft": "129",
+      "value": "California City, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -123,6 +156,9 @@
       }
     },
     {
+      "counts_locations": "74",
+      "average_price_price_sqft": "175",
+      "value": "Bakersfield, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -134,6 +170,9 @@
       }
     },
     {
+      "counts_locations": "1",
+      "average_price_price_sqft": "146",
+      "value": "Delano, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -145,6 +184,9 @@
       }
     },
     {
+      "counts_locations": "6",
+      "average_price_price_sqft": "158",
+      "value": "Lebec, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -156,6 +198,9 @@
       }
     },
     {
+      "counts_locations": "67",
+      "average_price_price_sqft": "178",
+      "value": "Pine Mountain Club, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -167,6 +212,10 @@
       }
     },
     {
+      "price_sqft": "209",
+      "counts_locations": "3",
+      "average_price_price_sqft": "236",
+      "value": "Inyokern, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -178,6 +227,9 @@
       }
     },
     {
+      "counts_locations": "6",
+      "average_price_price_sqft": "180",
+      "value": "Mojave, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -189,6 +241,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "166",
+      "value": "Boron, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -200,6 +255,9 @@
       }
     },
     {
+      "counts_locations": "1",
+      "average_price_price_sqft": "150",
+      "value": "Stallion Springs, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -211,6 +269,9 @@
       }
     },
     {
+      "counts_locations": "1",
+      "average_price_price_sqft": "130",
+      "value": "Ridgecrest, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -222,6 +283,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "358",
+      "value": "Keene, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -233,6 +297,9 @@
       }
     },
     {
+      "counts_locations": "8",
+      "average_price_price_sqft": "268",
+      "value": "Caliente, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -244,6 +311,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "182",
+      "value": "Bear Valley Springs, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -255,6 +325,9 @@
       }
     },
     {
+      "counts_locations": "1",
+      "average_price_price_sqft": "212",
+      "value": "Wofford Heights, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -266,6 +339,9 @@
       }
     },
     {
+      "counts_locations": "5",
+      "average_price_price_sqft": "723",
+      "value": "Studio City, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -277,6 +353,9 @@
       }
     },
     {
+      "counts_locations": "19",
+      "average_price_price_sqft": "690",
+      "value": "Glendale, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -288,6 +367,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "705",
+      "value": "Eagle Rock, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -299,6 +381,9 @@
       }
     },
     {
+      "counts_locations": "10",
+      "average_price_price_sqft": "670",
+      "value": "Rancho Palos Verdes, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -310,6 +395,9 @@
       }
     },
     {
+      "counts_locations": "36",
+      "average_price_price_sqft": "489",
+      "value": "Woodland Hills, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -321,6 +409,9 @@
       }
     },
     {
+      "counts_locations": "36",
+      "average_price_price_sqft": "489",
+      "value": "Woodland Hills, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -332,6 +423,9 @@
       }
     },
     {
+      "counts_locations": "16",
+      "average_price_price_sqft": "384",
+      "value": "Montebello, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -343,6 +437,9 @@
       }
     },
     {
+      "counts_locations": "388",
+      "average_price_price_sqft": "586",
+      "value": "Los Angeles, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -354,6 +451,9 @@
       }
     },
     {
+      "counts_locations": "10",
+      "average_price_price_sqft": "811",
+      "value": "Culver City, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -365,6 +465,9 @@
       }
     },
     {
+      "counts_locations": "108",
+      "average_price_price_sqft": "488",
+      "value": "Long Beach, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -376,6 +479,9 @@
       }
     },
     {
+      "counts_locations": "14",
+      "average_price_price_sqft": "405",
+      "value": "Walnut, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -387,6 +493,9 @@
       }
     },
     {
+      "counts_locations": "23",
+      "average_price_price_sqft": "340",
+      "value": "Rowland Heights, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -398,6 +507,9 @@
       }
     },
     {
+      "counts_locations": "12",
+      "average_price_price_sqft": "383",
+      "value": "Porter Ranch, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -409,6 +521,9 @@
       }
     },
     {
+      "counts_locations": "8",
+      "average_price_price_sqft": "386",
+      "value": "Newhall, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -420,6 +535,9 @@
       }
     },
     {
+      "counts_locations": "32",
+      "average_price_price_sqft": "406",
+      "value": "Covina, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -431,6 +549,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "1,492",
+      "value": "Santa Monica, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -442,6 +563,9 @@
       }
     },
     {
+      "counts_locations": "4",
+      "average_price_price_sqft": "771",
+      "value": "San Marino, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -453,6 +577,9 @@
       }
     },
     {
+      "counts_locations": "11",
+      "average_price_price_sqft": "421",
+      "value": "Agoura Hills, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -464,6 +591,9 @@
       }
     },
     {
+      "counts_locations": "7",
+      "average_price_price_sqft": "328",
+      "value": "Stevenson Ranch, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -475,6 +605,9 @@
       }
     },
     {
+      "counts_locations": "5",
+      "average_price_price_sqft": "782",
+      "value": "La Canada Flintridge, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -486,6 +619,9 @@
       }
     },
     {
+      "counts_locations": "12",
+      "average_price_price_sqft": "679",
+      "value": "Arcadia, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -497,6 +633,9 @@
       }
     },
     {
+      "counts_locations": "29",
+      "average_price_price_sqft": "594",
+      "value": "Pasadena, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -508,6 +647,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "1,102",
+      "value": "El Segundo, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -519,6 +661,9 @@
       }
     },
     {
+      "counts_locations": "16",
+      "average_price_price_sqft": "430",
+      "value": "El Monte, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -530,6 +675,9 @@
       }
     },
     {
+      "counts_locations": "22",
+      "average_price_price_sqft": "516",
+      "value": "Torrance, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -541,6 +689,9 @@
       }
     },
     {
+      "counts_locations": "16",
+      "average_price_price_sqft": "578",
+      "value": "Altadena, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -552,6 +703,9 @@
       }
     },
     {
+      "counts_locations": "15",
+      "average_price_price_sqft": "462",
+      "value": "Encino, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -563,6 +717,9 @@
       }
     },
     {
+      "counts_locations": "18",
+      "average_price_price_sqft": "430",
+      "value": "Downey, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -574,6 +731,9 @@
       }
     },
     {
+      "counts_locations": "14",
+      "average_price_price_sqft": "654",
+      "value": "Sherman Oaks, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -585,6 +745,9 @@
       }
     },
     {
+      "counts_locations": "16",
+      "average_price_price_sqft": "506",
+      "value": "Monrovia, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -596,6 +759,9 @@
       }
     },
     {
+      "counts_locations": "18",
+      "average_price_price_sqft": "372",
+      "value": "Northridge, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -607,6 +773,9 @@
       }
     },
     {
+      "counts_locations": "10",
+      "average_price_price_sqft": "545",
+      "value": "Sunland, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -618,6 +787,9 @@
       }
     },
     {
+      "counts_locations": "12",
+      "average_price_price_sqft": "355",
+      "value": "Azusa, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -629,6 +801,9 @@
       }
     },
     {
+      "counts_locations": "6",
+      "average_price_price_sqft": "467",
+      "value": "Valley Glen, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -640,6 +815,9 @@
       }
     },
     {
+      "counts_locations": "12",
+      "average_price_price_sqft": "334",
+      "value": "Castaic, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -651,6 +829,9 @@
       }
     },
     {
+      "counts_locations": "10",
+      "average_price_price_sqft": "503",
+      "value": "Tarzana, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -662,6 +843,9 @@
       }
     },
     {
+      "counts_locations": "19",
+      "average_price_price_sqft": "576",
+      "value": "Burbank, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -673,6 +857,9 @@
       }
     },
     {
+      "counts_locations": "26",
+      "average_price_price_sqft": "382",
+      "value": "Diamond Bar, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -684,6 +871,9 @@
       }
     },
     {
+      "counts_locations": "19",
+      "average_price_price_sqft": "390",
+      "value": "Hacienda Heights, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -695,6 +885,9 @@
       }
     },
     {
+      "counts_locations": "27",
+      "average_price_price_sqft": "327",
+      "value": "Canyon Country, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -706,6 +899,9 @@
       }
     },
     {
+      "counts_locations": "25",
+      "average_price_price_sqft": "544",
+      "value": "Van Nuys, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -717,6 +913,9 @@
       }
     },
     {
+      "counts_locations": "46",
+      "average_price_price_sqft": "353",
+      "value": "West Covina, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -728,6 +927,9 @@
       }
     },
     {
+      "counts_locations": "5",
+      "average_price_price_sqft": "692",
+      "value": "Sierra Madre, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -739,6 +941,9 @@
       }
     },
     {
+      "counts_locations": "11",
+      "average_price_price_sqft": "539",
+      "value": "Alhambra, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -750,6 +955,9 @@
       }
     },
     {
+      "counts_locations": "4",
+      "average_price_price_sqft": "1,054",
+      "value": "Beverly Hills, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -761,6 +969,9 @@
       }
     },
     {
+      "counts_locations": "7",
+      "average_price_price_sqft": "1,440",
+      "value": "Venice, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -772,6 +983,9 @@
       }
     },
     {
+      "counts_locations": "16",
+      "average_price_price_sqft": "536",
+      "value": "Inglewood, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -783,6 +997,9 @@
       }
     },
     {
+      "counts_locations": "1",
+      "average_price_price_sqft": "795",
+      "value": "Westchester, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -794,6 +1011,10 @@
       }
     },
     {
+      "price_sqft": "457",
+      "counts_locations": "5",
+      "average_price_price_sqft": "564",
+      "value": "Valley Village, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -805,6 +1026,9 @@
       }
     },
     {
+      "counts_locations": "19",
+      "average_price_price_sqft": "407",
+      "value": "Glendora, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -816,6 +1040,9 @@
       }
     },
     {
+      "counts_locations": "20",
+      "average_price_price_sqft": "515",
+      "value": "San Gabriel, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -827,6 +1054,9 @@
       }
     },
     {
+      "counts_locations": "8",
+      "average_price_price_sqft": "334",
+      "value": "La Verne, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -838,6 +1068,9 @@
       }
     },
     {
+      "counts_locations": "3",
+      "average_price_price_sqft": "760",
+      "value": "Malibu, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -849,6 +1082,9 @@
       }
     },
     {
+      "counts_locations": "6",
+      "average_price_price_sqft": "1,014",
+      "value": "Redondo Beach, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -860,6 +1096,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "633",
+      "value": "Playa del Rey, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -871,6 +1110,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "590",
+      "value": "Palos Verdes Estates, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -882,6 +1124,9 @@
       }
     },
     {
+      "counts_locations": "48",
+      "average_price_price_sqft": "427",
+      "value": "Whittier, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -893,6 +1138,9 @@
       }
     },
     {
+      "counts_locations": "49",
+      "average_price_price_sqft": "363",
+      "value": "Pomona, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -904,6 +1152,9 @@
       }
     },
     {
+      "counts_locations": "1",
+      "average_price_price_sqft": "587",
+      "value": "Toluca Lake, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -915,6 +1166,9 @@
       }
     },
     {
+      "counts_locations": "3",
+      "average_price_price_sqft": "360",
+      "value": "Shadow Hills, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -926,6 +1180,9 @@
       }
     },
     {
+      "counts_locations": "1",
+      "average_price_price_sqft": "791",
+      "value": "Hermosa Beach, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -937,6 +1194,9 @@
       }
     },
     {
+      "counts_locations": "11",
+      "average_price_price_sqft": "395",
+      "value": "Claremont, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -948,6 +1208,9 @@
       }
     },
     {
+      "counts_locations": "5",
+      "average_price_price_sqft": "613",
+      "value": "South Pasadena, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -959,6 +1222,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "771",
+      "value": "Pacific Palisades, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -970,6 +1236,9 @@
       }
     },
     {
+      "counts_locations": "4",
+      "average_price_price_sqft": "419",
+      "value": "Calabasas, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -981,6 +1250,9 @@
       }
     },
     {
+      "counts_locations": "1",
+      "average_price_price_sqft": "864",
+      "value": "West Hollywood, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -992,6 +1264,9 @@
       }
     },
     {
+      "counts_locations": "11",
+      "average_price_price_sqft": "467",
+      "value": "Temple City, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1003,6 +1278,9 @@
       }
     },
     {
+      "counts_locations": "312",
+      "average_price_price_sqft": "187",
+      "value": "Lancaster, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1014,6 +1292,9 @@
       }
     },
     {
+      "counts_locations": "23",
+      "average_price_price_sqft": "226",
+      "value": "Littlerock, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1025,6 +1306,9 @@
       }
     },
     {
+      "counts_locations": "224",
+      "average_price_price_sqft": "196",
+      "value": "Palmdale, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1036,6 +1320,9 @@
       }
     },
     {
+      "counts_locations": "4",
+      "average_price_price_sqft": "178",
+      "value": "Pearblossom, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1047,6 +1334,9 @@
       }
     },
     {
+      "counts_locations": "10",
+      "average_price_price_sqft": "194",
+      "value": "Lake Los Angeles, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1058,6 +1348,9 @@
       }
     },
     {
+      "counts_locations": "20",
+      "average_price_price_sqft": "494",
+      "value": "North Hollywood, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1069,6 +1362,9 @@
       }
     },
     {
+      "counts_locations": "32",
+      "average_price_price_sqft": "342",
+      "value": "Sylmar, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1080,6 +1376,9 @@
       }
     },
     {
+      "counts_locations": "11",
+      "average_price_price_sqft": "230",
+      "value": "Lake Hughes, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1091,6 +1390,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "278",
+      "value": "Santa Clarita, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1102,6 +1404,9 @@
       }
     },
     {
+      "counts_locations": "3",
+      "average_price_price_sqft": "142",
+      "value": "Llano, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1113,6 +1418,9 @@
       }
     },
     {
+      "counts_locations": "19",
+      "average_price_price_sqft": "329",
+      "value": "Acton, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1124,6 +1432,9 @@
       }
     },
     {
+      "counts_locations": "18",
+      "average_price_price_sqft": "402",
+      "value": "Reseda, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1135,6 +1446,9 @@
       }
     },
     {
+      "counts_locations": "14",
+      "average_price_price_sqft": "409",
+      "value": "La Mirada, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1146,6 +1460,9 @@
       }
     },
     {
+      "counts_locations": "6",
+      "average_price_price_sqft": "222",
+      "value": "Lake Elizabeth, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1157,6 +1474,9 @@
       }
     },
     {
+      "counts_locations": "11",
+      "average_price_price_sqft": "414",
+      "value": "Paramount, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1168,6 +1488,9 @@
       }
     },
     {
+      "counts_locations": "14",
+      "average_price_price_sqft": "493",
+      "value": "San Pedro, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1179,6 +1502,9 @@
       }
     },
     {
+      "counts_locations": "7",
+      "average_price_price_sqft": "282",
+      "value": "Green Valley, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1190,6 +1516,9 @@
       }
     },
     {
+      "counts_locations": "71",
+      "average_price_price_sqft": "379",
+      "value": "Compton, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1201,6 +1530,9 @@
       }
     },
     {
+      "counts_locations": "12",
+      "average_price_price_sqft": "493",
+      "value": "Huntington Park, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1212,6 +1544,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "178",
+      "value": "Juniper Hills, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1223,6 +1558,9 @@
       }
     },
     {
+      "counts_locations": "8",
+      "average_price_price_sqft": "182",
+      "value": "Quartz Hill, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1234,6 +1572,9 @@
       }
     },
     {
+      "counts_locations": "5",
+      "average_price_price_sqft": "319",
+      "value": "Leona Valley, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1245,6 +1586,9 @@
       }
     },
     {
+      "counts_locations": "5",
+      "average_price_price_sqft": "335",
+      "value": "Agua Dulce, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1256,6 +1600,9 @@
       }
     },
     {
+      "counts_locations": "12",
+      "average_price_price_sqft": "418",
+      "value": "San Fernando, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1267,6 +1614,9 @@
       }
     },
     {
+      "counts_locations": "224",
+      "average_price_price_sqft": "196",
+      "value": "Palmdale, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1278,6 +1628,7 @@
       }
     },
     {
+      "value": "Pico Rivera, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1289,6 +1640,9 @@
       }
     },
     {
+      "counts_locations": "15",
+      "average_price_price_sqft": "392",
+      "value": "Hawaiian Gardens, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1300,6 +1654,9 @@
       }
     },
     {
+      "counts_locations": "1",
+      "average_price_price_sqft": "318",
+      "value": "Mt Baldy, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1311,6 +1668,9 @@
       }
     },
     {
+      "counts_locations": "12",
+      "average_price_price_sqft": "495",
+      "value": "Gardena, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1322,6 +1682,9 @@
       }
     },
     {
+      "counts_locations": "33",
+      "average_price_price_sqft": "420",
+      "value": "La Puente, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1333,6 +1696,9 @@
       }
     },
     {
+      "counts_locations": "4",
+      "average_price_price_sqft": "528",
+      "value": "Artesia, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1344,6 +1710,9 @@
       }
     },
     {
+      "counts_locations": "20",
+      "average_price_price_sqft": "443",
+      "value": "Baldwin Park, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1355,6 +1724,9 @@
       }
     },
     {
+      "counts_locations": "28",
+      "average_price_price_sqft": "438",
+      "value": "Norwalk, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1366,6 +1738,9 @@
       }
     },
     {
+      "counts_locations": "16",
+      "average_price_price_sqft": "546",
+      "value": "Tujunga, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1377,6 +1752,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "564",
+      "value": "Bell Gardens, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1388,6 +1766,9 @@
       }
     },
     {
+      "counts_locations": "12",
+      "average_price_price_sqft": "435",
+      "value": "Carson, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1399,6 +1780,9 @@
       }
     },
     {
+      "counts_locations": "15",
+      "average_price_price_sqft": "444",
+      "value": "Pacoima, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1410,6 +1794,9 @@
       }
     },
     {
+      "counts_locations": "15",
+      "average_price_price_sqft": "441",
+      "value": "Bellflower, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1421,6 +1808,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "416",
+      "value": "Bell, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1432,6 +1822,9 @@
       }
     },
     {
+      "counts_locations": "9",
+      "average_price_price_sqft": "364",
+      "value": "Lynwood, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1443,6 +1836,9 @@
       }
     },
     {
+      "counts_locations": "7",
+      "average_price_price_sqft": "472",
+      "value": "East Los Angeles, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1454,6 +1850,9 @@
       }
     },
     {
+      "counts_locations": "3",
+      "average_price_price_sqft": "485",
+      "value": "South El Monte, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1465,6 +1864,9 @@
       }
     },
     {
+      "counts_locations": "10",
+      "average_price_price_sqft": "489",
+      "value": "Canoga Park, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1476,6 +1878,9 @@
       }
     },
     {
+      "counts_locations": "12",
+      "average_price_price_sqft": "350",
+      "value": "Chatsworth, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1487,6 +1892,9 @@
       }
     },
     {
+      "counts_locations": "21",
+      "average_price_price_sqft": "415",
+      "value": "Granada Hills, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1498,6 +1906,9 @@
       }
     },
     {
+      "counts_locations": "9",
+      "average_price_price_sqft": "401",
+      "value": "South Gate, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1509,6 +1920,9 @@
       }
     },
     {
+      "counts_locations": "28",
+      "average_price_price_sqft": "497",
+      "value": "Lakewood, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1520,6 +1934,9 @@
       }
     },
     {
+      "counts_locations": "6",
+      "average_price_price_sqft": "452",
+      "value": "Wilmington, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1531,6 +1948,9 @@
       }
     },
     {
+      "counts_locations": "1",
+      "average_price_price_sqft": "350",
+      "value": "Val Verde, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1542,6 +1962,9 @@
       }
     },
     {
+      "counts_locations": "23",
+      "average_price_price_sqft": "296",
+      "value": "Saugus, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1553,6 +1976,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "349",
+      "value": "Commerce, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1564,6 +1990,9 @@
       }
     },
     {
+      "counts_locations": "32",
+      "average_price_price_sqft": "337",
+      "value": "Valencia, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1575,6 +2004,9 @@
       }
     },
     {
+      "counts_locations": "3",
+      "average_price_price_sqft": "391",
+      "value": "Santa Fe Springs, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1586,6 +2018,9 @@
       }
     },
     {
+      "counts_locations": "5",
+      "average_price_price_sqft": "723",
+      "value": "Topanga, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1597,6 +2032,9 @@
       }
     },
     {
+      "counts_locations": "7",
+      "average_price_price_sqft": "349",
+      "value": "Arleta, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1608,6 +2046,9 @@
       }
     },
     {
+      "counts_locations": "11",
+      "average_price_price_sqft": "432",
+      "value": "Sun Valley, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1619,6 +2060,9 @@
       }
     },
     {
+      "counts_locations": "13",
+      "average_price_price_sqft": "565",
+      "value": "La Crescenta, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1630,6 +2074,9 @@
       }
     },
     {
+      "counts_locations": "14",
+      "average_price_price_sqft": "451",
+      "value": "Winnetka, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1641,6 +2088,9 @@
       }
     },
     {
+      "counts_locations": "48",
+      "average_price_price_sqft": "427",
+      "value": "Whittier, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1652,6 +2102,9 @@
       }
     },
     {
+      "counts_locations": "12",
+      "average_price_price_sqft": "439",
+      "value": "Rosemead, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1663,6 +2116,9 @@
       }
     },
     {
+      "counts_locations": "3",
+      "average_price_price_sqft": "351",
+      "value": "Panorama City, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1674,6 +2130,9 @@
       }
     },
     {
+      "counts_locations": "15",
+      "average_price_price_sqft": "583",
+      "value": "Monterey Park, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1685,6 +2144,9 @@
       }
     },
     {
+      "counts_locations": "12",
+      "average_price_price_sqft": "497",
+      "value": "Hawthorne, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1696,6 +2158,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "257",
+      "value": "Phillips Ranch, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1707,6 +2172,9 @@
       }
     },
     {
+      "counts_locations": "4",
+      "average_price_price_sqft": "386",
+      "value": "Mission Hills, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1718,6 +2186,9 @@
       }
     },
     {
+      "counts_locations": "8",
+      "average_price_price_sqft": "424",
+      "value": "Duarte, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1729,6 +2200,9 @@
       }
     },
     {
+      "counts_locations": "9",
+      "average_price_price_sqft": "385",
+      "value": "North Hills, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1740,6 +2214,9 @@
       }
     },
     {
+      "counts_locations": "8",
+      "average_price_price_sqft": "389",
+      "value": "San Dimas, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1751,6 +2228,9 @@
       }
     },
     {
+      "counts_locations": "25",
+      "average_price_price_sqft": "413",
+      "value": "West Hills, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1762,6 +2242,9 @@
       }
     },
     {
+      "counts_locations": "6",
+      "average_price_price_sqft": "472",
+      "value": "Lake Balboa, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1773,6 +2256,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "532",
+      "value": "Hollywood, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1784,6 +2270,9 @@
       }
     },
     {
+      "counts_locations": "1",
+      "average_price_price_sqft": "435",
+      "value": "Lawndale, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1795,6 +2284,9 @@
       }
     },
     {
+      "counts_locations": "7",
+      "average_price_price_sqft": "411",
+      "value": "Cerritos, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1806,6 +2298,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "960",
+      "value": "Los Feliz, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1817,6 +2312,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "433",
+      "value": "Lakeview Terrace, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1828,6 +2326,9 @@
       }
     },
     {
+      "counts_locations": "9",
+      "average_price_price_sqft": "431",
+      "value": "Lomita, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1839,6 +2340,9 @@
       }
     },
     {
+      "counts_locations": "5",
+      "average_price_price_sqft": "369",
+      "value": "Harbor City, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1850,6 +2354,9 @@
       }
     },
     {
+      "counts_locations": "4",
+      "average_price_price_sqft": "553",
+      "value": "Highland Park, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1861,6 +2368,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "499",
+      "value": "Montrose, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1872,6 +2382,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "466",
+      "value": "View Park, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1883,6 +2396,9 @@
       }
     },
     {
+      "counts_locations": "1",
+      "average_price_price_sqft": "1,009",
+      "value": "Echo Park, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1894,6 +2410,9 @@
       }
     },
     {
+      "counts_locations": "58",
+      "average_price_price_sqft": "549",
+      "value": "Costa Mesa, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1905,6 +2424,9 @@
       }
     },
     {
+      "counts_locations": "51",
+      "average_price_price_sqft": "420",
+      "value": "Fullerton, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1916,6 +2438,9 @@
       }
     },
     {
+      "counts_locations": "15",
+      "average_price_price_sqft": "896",
+      "value": "Laguna Beach, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1927,6 +2452,9 @@
       }
     },
     {
+      "counts_locations": "23",
+      "average_price_price_sqft": "409",
+      "value": "Rancho Santa Margarita, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1938,6 +2466,9 @@
       }
     },
     {
+      "counts_locations": "62",
+      "average_price_price_sqft": "395",
+      "value": "Ladera Ranch, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1949,6 +2480,9 @@
       }
     },
     {
+      "counts_locations": "76",
+      "average_price_price_sqft": "528",
+      "value": "Huntington Beach, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1960,6 +2494,9 @@
       }
     },
     {
+      "counts_locations": "35",
+      "average_price_price_sqft": "397",
+      "value": "Anaheim Hills, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1971,6 +2508,9 @@
       }
     },
     {
+      "counts_locations": "21",
+      "average_price_price_sqft": "690",
+      "value": "Newport Beach, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1982,6 +2522,9 @@
       }
     },
     {
+      "counts_locations": "36",
+      "average_price_price_sqft": "423",
+      "value": "San Juan Capistrano, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -1993,6 +2536,9 @@
       }
     },
     {
+      "counts_locations": "60",
+      "average_price_price_sqft": "410",
+      "value": "Lake Forest, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2004,6 +2550,9 @@
       }
     },
     {
+      "counts_locations": "93",
+      "average_price_price_sqft": "438",
+      "value": "Orange, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2015,6 +2564,9 @@
       }
     },
     {
+      "counts_locations": "53",
+      "average_price_price_sqft": "489",
+      "value": "Laguna Niguel, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2026,6 +2578,9 @@
       }
     },
     {
+      "counts_locations": "18",
+      "average_price_price_sqft": "440",
+      "value": "Aliso Viejo, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2037,6 +2592,9 @@
       }
     },
     {
+      "counts_locations": "107",
+      "average_price_price_sqft": "499",
+      "value": "Irvine, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2048,6 +2606,9 @@
       }
     },
     {
+      "counts_locations": "72",
+      "average_price_price_sqft": "478",
+      "value": "Garden Grove, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2059,6 +2620,9 @@
       }
     },
     {
+      "counts_locations": "41",
+      "average_price_price_sqft": "393",
+      "value": "Placentia, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2070,6 +2634,9 @@
       }
     },
     {
+      "counts_locations": "5",
+      "average_price_price_sqft": "509",
+      "value": "Los Alamitos, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2081,6 +2648,9 @@
       }
     },
     {
+      "counts_locations": "67",
+      "average_price_price_sqft": "477",
+      "value": "San Clemente, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2092,6 +2662,9 @@
       }
     },
     {
+      "counts_locations": "27",
+      "average_price_price_sqft": "541",
+      "value": "Dana Point, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2103,6 +2676,9 @@
       }
     },
     {
+      "counts_locations": "83",
+      "average_price_price_sqft": "429",
+      "value": "Mission Viejo, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2114,6 +2690,9 @@
       }
     },
     {
+      "counts_locations": "17",
+      "average_price_price_sqft": "339",
+      "value": "Coto de Caza, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2125,6 +2704,9 @@
       }
     },
     {
+      "counts_locations": "46",
+      "average_price_price_sqft": "396",
+      "value": "La Habra, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2136,6 +2718,9 @@
       }
     },
     {
+      "counts_locations": "48",
+      "average_price_price_sqft": "468",
+      "value": "Westminster, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2147,6 +2732,9 @@
       }
     },
     {
+      "counts_locations": "6",
+      "average_price_price_sqft": "553",
+      "value": "Rossmoor, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2158,6 +2746,9 @@
       }
     },
     {
+      "counts_locations": "14",
+      "average_price_price_sqft": "430",
+      "value": "Laguna Hills, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2169,6 +2760,9 @@
       }
     },
     {
+      "counts_locations": "54",
+      "average_price_price_sqft": "422",
+      "value": "Yorba Linda, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2180,6 +2774,9 @@
       }
     },
     {
+      "counts_locations": "22",
+      "average_price_price_sqft": "477",
+      "value": "Fountain Valley, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2191,6 +2788,9 @@
       }
     },
     {
+      "counts_locations": "17",
+      "average_price_price_sqft": "399",
+      "value": "North Tustin, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2202,6 +2802,9 @@
       }
     },
     {
+      "counts_locations": "8",
+      "average_price_price_sqft": "384",
+      "value": "Trabuco Canyon, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2213,6 +2816,9 @@
       }
     },
     {
+      "counts_locations": "15",
+      "average_price_price_sqft": "509",
+      "value": "La Habra Heights, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2224,6 +2830,9 @@
       }
     },
     {
+      "counts_locations": "133",
+      "average_price_price_sqft": "449",
+      "value": "Santa Ana, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2235,6 +2844,9 @@
       }
     },
     {
+      "counts_locations": "122",
+      "average_price_price_sqft": "316",
+      "value": "Seal Beach, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2246,6 +2858,9 @@
       }
     },
     {
+      "counts_locations": "31",
+      "average_price_price_sqft": "373",
+      "value": "Brea, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2257,6 +2872,9 @@
       }
     },
     {
+      "counts_locations": "25",
+      "average_price_price_sqft": "438",
+      "value": "Cypress, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2268,6 +2886,9 @@
       }
     },
     {
+      "counts_locations": "5",
+      "average_price_price_sqft": "575",
+      "value": "Villa Park, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2279,6 +2900,9 @@
       }
     },
     {
+      "counts_locations": "24",
+      "average_price_price_sqft": "437",
+      "value": "Tustin, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2290,6 +2914,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "736",
+      "value": "Newport Coast, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2301,6 +2928,9 @@
       }
     },
     {
+      "counts_locations": "1",
+      "average_price_price_sqft": "732",
+      "value": "Corona del Mar, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2312,6 +2942,9 @@
       }
     },
     {
+      "counts_locations": "118",
+      "average_price_price_sqft": "297",
+      "value": "Laguna Woods, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2323,6 +2956,9 @@
       }
     },
     {
+      "counts_locations": "106",
+      "average_price_price_sqft": "387",
+      "value": "Anaheim, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2334,6 +2970,9 @@
       }
     },
     {
+      "counts_locations": "34",
+      "average_price_price_sqft": "434",
+      "value": "Buena Park, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2345,6 +2984,9 @@
       }
     },
     {
+      "counts_locations": "4",
+      "average_price_price_sqft": "262",
+      "value": "Silverado, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2356,6 +2998,9 @@
       }
     },
     {
+      "counts_locations": "5",
+      "average_price_price_sqft": "334",
+      "value": "Stanton, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2367,6 +3012,9 @@
       }
     },
     {
+      "counts_locations": "8",
+      "average_price_price_sqft": "381",
+      "value": "La Palma, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2378,6 +3026,9 @@
       }
     },
     {
+      "counts_locations": "3",
+      "average_price_price_sqft": "547",
+      "value": "Midway City, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2389,6 +3040,9 @@
       }
     },
     {
+      "counts_locations": "1",
+      "average_price_price_sqft": "419",
+      "value": "Modjeska Canyon, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2400,6 +3054,9 @@
       }
     },
     {
+      "counts_locations": "305",
+      "average_price_price_sqft": "298",
+      "value": "La Quinta, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2411,6 +3068,9 @@
       }
     },
     {
+      "counts_locations": "162",
+      "average_price_price_sqft": "256",
+      "value": "Temecula, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2422,6 +3082,9 @@
       }
     },
     {
+      "counts_locations": "167",
+      "average_price_price_sqft": "295",
+      "value": "Rancho Mirage, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2433,6 +3096,9 @@
       }
     },
     {
+      "counts_locations": "196",
+      "average_price_price_sqft": "310",
+      "value": "Palm Desert, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2444,6 +3110,9 @@
       }
     },
     {
+      "counts_locations": "79",
+      "average_price_price_sqft": "333",
+      "value": "Indian Wells, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2455,6 +3124,9 @@
       }
     },
     {
+      "counts_locations": "228",
+      "average_price_price_sqft": "398",
+      "value": "Palm Springs, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2466,6 +3138,9 @@
       }
     },
     {
+      "counts_locations": "49",
+      "average_price_price_sqft": "253",
+      "value": "Canyon Lake, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2477,6 +3152,9 @@
       }
     },
     {
+      "counts_locations": "45",
+      "average_price_price_sqft": "214",
+      "value": "Winchester, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2488,6 +3166,9 @@
       }
     },
     {
+      "counts_locations": "188",
+      "average_price_price_sqft": "235",
+      "value": "Murrieta, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2499,6 +3180,9 @@
       }
     },
     {
+      "counts_locations": "19",
+      "average_price_price_sqft": "196",
+      "value": "N/A",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2510,6 +3194,9 @@
       }
     },
     {
+      "counts_locations": "23",
+      "average_price_price_sqft": "227",
+      "value": "Bermuda Dunes, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2521,6 +3208,9 @@
       }
     },
     {
+      "counts_locations": "12",
+      "average_price_price_sqft": "285",
+      "value": "Mountain Center, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2532,6 +3222,9 @@
       }
     },
     {
+      "counts_locations": "257",
+      "average_price_price_sqft": "231",
+      "value": "Corona, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2543,6 +3236,9 @@
       }
     },
     {
+      "counts_locations": "274",
+      "average_price_price_sqft": "239",
+      "value": "Riverside, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2554,6 +3250,9 @@
       }
     },
     {
+      "counts_locations": "133",
+      "average_price_price_sqft": "224",
+      "value": "Indio, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2565,6 +3264,9 @@
       }
     },
     {
+      "counts_locations": "41",
+      "average_price_price_sqft": "224",
+      "value": "Banning, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2576,6 +3278,9 @@
       }
     },
     {
+      "counts_locations": "10",
+      "average_price_price_sqft": "445",
+      "value": "Thermal, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2587,6 +3292,9 @@
       }
     },
     {
+      "counts_locations": "118",
+      "average_price_price_sqft": "204",
+      "value": "Menifee, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2598,6 +3306,9 @@
       }
     },
     {
+      "counts_locations": "37",
+      "average_price_price_sqft": "311",
+      "value": "Norco, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2609,6 +3320,9 @@
       }
     },
     {
+      "counts_locations": "4",
+      "average_price_price_sqft": "269",
+      "value": "Homeland, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2620,6 +3334,9 @@
       }
     },
     {
+      "counts_locations": "144",
+      "average_price_price_sqft": "209",
+      "value": "Hemet, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2631,6 +3348,9 @@
       }
     },
     {
+      "counts_locations": "17",
+      "average_price_price_sqft": "218",
+      "value": "Cherry Valley, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2642,6 +3362,9 @@
       }
     },
     {
+      "counts_locations": "35",
+      "average_price_price_sqft": "231",
+      "value": "Wildomar, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2653,6 +3376,9 @@
       }
     },
     {
+      "counts_locations": "19",
+      "average_price_price_sqft": "196",
+      "value": "Coachella, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2664,6 +3390,9 @@
       }
     },
     {
+      "counts_locations": "47",
+      "average_price_price_sqft": "188",
+      "value": "San Jacinto, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2675,6 +3404,9 @@
       }
     },
     {
+      "counts_locations": "75",
+      "average_price_price_sqft": "181",
+      "value": "Desert Hot Springs, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2686,6 +3418,9 @@
       }
     },
     {
+      "counts_locations": "75",
+      "average_price_price_sqft": "243",
+      "value": "Lake Elsinore, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2697,6 +3432,9 @@
       }
     },
     {
+      "counts_locations": "57",
+      "average_price_price_sqft": "210",
+      "value": "Perris, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2708,6 +3446,9 @@
       }
     },
     {
+      "counts_locations": "81",
+      "average_price_price_sqft": "204",
+      "value": "Moreno Valley, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2719,6 +3460,9 @@
       }
     },
     {
+      "counts_locations": "20",
+      "average_price_price_sqft": "194",
+      "value": "Anza, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2730,6 +3474,9 @@
       }
     },
     {
+      "counts_locations": "5",
+      "average_price_price_sqft": "175",
+      "value": "Blythe, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2741,6 +3488,9 @@
       }
     },
     {
+      "counts_locations": "48",
+      "average_price_price_sqft": "236",
+      "value": "Cathedral City, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2752,6 +3502,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "178",
+      "value": "Cabazon, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2763,6 +3516,9 @@
       }
     },
     {
+      "counts_locations": "22",
+      "average_price_price_sqft": "209",
+      "value": "Nuevo, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2774,6 +3530,9 @@
       }
     },
     {
+      "counts_locations": "20",
+      "average_price_price_sqft": "361",
+      "value": "Idyllwild, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2785,6 +3544,9 @@
       }
     },
     {
+      "counts_locations": "4",
+      "average_price_price_sqft": "168",
+      "value": "Thousand Palms, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2796,6 +3558,9 @@
       }
     },
     {
+      "counts_locations": "63",
+      "average_price_price_sqft": "186",
+      "value": "Beaumont, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2807,6 +3572,9 @@
       }
     },
     {
+      "counts_locations": "4",
+      "average_price_price_sqft": "172",
+      "value": "Whitewater, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2818,6 +3586,9 @@
       }
     },
     {
+      "counts_locations": "11",
+      "average_price_price_sqft": "188",
+      "value": "Sun City, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2829,6 +3600,9 @@
       }
     },
     {
+      "counts_locations": "8",
+      "average_price_price_sqft": "367",
+      "value": "Aguanga, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2840,6 +3614,9 @@
       }
     },
     {
+      "counts_locations": "19",
+      "average_price_price_sqft": "251",
+      "value": "Belltown, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2851,6 +3628,9 @@
       }
     },
     {
+      "counts_locations": "21",
+      "average_price_price_sqft": "186",
+      "value": "Calimesa, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2863,6 +3643,9 @@
       "id": 259
     },
     {
+      "counts_locations": "22",
+      "average_price_price_sqft": "227",
+      "value": "Mira Loma, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2874,6 +3657,9 @@
       }
     },
     {
+      "counts_locations": "1",
+      "average_price_price_sqft": "154",
+      "value": "Romoland, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2885,6 +3671,9 @@
       }
     },
     {
+      "counts_locations": "199",
+      "average_price_price_sqft": "286",
+      "value": "Rancho Cucamonga, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2896,6 +3685,9 @@
       }
     },
     {
+      "counts_locations": "172",
+      "average_price_price_sqft": "293",
+      "value": "Lake Arrowhead, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2907,6 +3699,9 @@
       }
     },
     {
+      "counts_locations": "86",
+      "average_price_price_sqft": "231",
+      "value": "Yucaipa, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2918,6 +3713,9 @@
       }
     },
     {
+      "counts_locations": "99",
+      "average_price_price_sqft": "267",
+      "value": "Redlands, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2929,6 +3727,9 @@
       }
     },
     {
+      "counts_locations": "44",
+      "average_price_price_sqft": "358",
+      "value": "Joshua Tree, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2940,6 +3741,9 @@
       }
     },
     {
+      "counts_locations": "228",
+      "average_price_price_sqft": "304",
+      "value": "Big Bear, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2951,6 +3755,9 @@
       }
     },
     {
+      "counts_locations": "118",
+      "average_price_price_sqft": "297",
+      "value": "Upland, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2962,6 +3769,9 @@
       }
     },
     {
+      "counts_locations": "12",
+      "average_price_price_sqft": "359",
+      "value": "Bloomington, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2973,6 +3783,9 @@
       }
     },
     {
+      "counts_locations": "177",
+      "average_price_price_sqft": "239",
+      "value": "San Bernardino, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2984,6 +3797,9 @@
       }
     },
     {
+      "counts_locations": "31",
+      "average_price_price_sqft": "232",
+      "value": "Colton, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -2995,6 +3811,9 @@
       }
     },
     {
+      "counts_locations": "131",
+      "average_price_price_sqft": "276",
+      "value": "Chino, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3006,6 +3825,9 @@
       }
     },
     {
+      "counts_locations": "39",
+      "average_price_price_sqft": "302",
+      "value": "Alta Loma, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3017,6 +3839,9 @@
       }
     },
     {
+      "counts_locations": "6",
+      "average_price_price_sqft": "317",
+      "value": "Oak Glen, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3028,6 +3853,9 @@
       }
     },
     {
+      "counts_locations": "4",
+      "average_price_price_sqft": "215",
+      "value": "Lucerne Valley, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3039,6 +3867,9 @@
       }
     },
     {
+      "counts_locations": "230",
+      "average_price_price_sqft": "253",
+      "value": "Fontana, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3050,6 +3881,9 @@
       }
     },
     {
+      "counts_locations": "18",
+      "average_price_price_sqft": "250",
+      "value": "Wrightwood, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3061,6 +3895,9 @@
       }
     },
     {
+      "counts_locations": "3",
+      "average_price_price_sqft": "241",
+      "value": "Big Bear Lake, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3072,6 +3909,9 @@
       }
     },
     {
+      "counts_locations": "6",
+      "average_price_price_sqft": "286",
+      "value": "Needles, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3083,6 +3923,9 @@
       }
     },
     {
+      "counts_locations": "37",
+      "average_price_price_sqft": "208",
+      "value": "Running Springs, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3094,6 +3937,9 @@
       }
     },
     {
+      "counts_locations": "59",
+      "average_price_price_sqft": "199",
+      "value": "Hesperia, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3105,6 +3951,9 @@
       }
     },
     {
+      "counts_locations": "7",
+      "average_price_price_sqft": "217",
+      "value": "Pinon Hills, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3116,6 +3965,9 @@
       }
     },
     {
+      "counts_locations": "7",
+      "average_price_price_sqft": "523",
+      "value": "Pioneertown, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3127,6 +3979,9 @@
       }
     },
     {
+      "counts_locations": "118",
+      "average_price_price_sqft": "295",
+      "value": "Ontario, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3138,6 +3993,9 @@
       }
     },
     {
+      "counts_locations": "46",
+      "average_price_price_sqft": "197",
+      "value": "Yucca Valley, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3149,6 +4007,9 @@
       }
     },
     {
+      "counts_locations": "78",
+      "average_price_price_sqft": "162",
+      "value": "Apple Valley, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3160,6 +4021,9 @@
       }
     },
     {
+      "counts_locations": "3",
+      "average_price_price_sqft": "233",
+      "value": "Cedarpines Park, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3171,6 +4035,9 @@
       }
     },
     {
+      "counts_locations": "120",
+      "average_price_price_sqft": "154",
+      "value": "Victorville, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3182,6 +4049,9 @@
       }
     },
     {
+      "counts_locations": "7",
+      "average_price_price_sqft": "142",
+      "value": "Helendale, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3193,6 +4063,9 @@
       }
     },
     {
+      "counts_locations": "35",
+      "average_price_price_sqft": "217",
+      "value": "Crestline, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3204,6 +4077,9 @@
       }
     },
     {
+      "counts_locations": "10",
+      "average_price_price_sqft": "163",
+      "value": "Morongo Valley, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3215,6 +4091,9 @@
       }
     },
     {
+      "counts_locations": "10",
+      "average_price_price_sqft": "187",
+      "value": "29 Palms, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3226,6 +4105,9 @@
       }
     },
     {
+      "counts_locations": "5",
+      "average_price_price_sqft": "249",
+      "value": "Sugarloaf, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3237,6 +4119,9 @@
       }
     },
     {
+      "counts_locations": "10",
+      "average_price_price_sqft": "182",
+      "value": "Landers, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3248,6 +4133,9 @@
       }
     },
     {
+      "counts_locations": "9",
+      "average_price_price_sqft": "230",
+      "value": "Angelus Oaks, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3259,6 +4147,9 @@
       }
     },
     {
+      "counts_locations": "23",
+      "average_price_price_sqft": "147",
+      "value": "Adelanto, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3270,6 +4161,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "239",
+      "value": "Green Valley Lake, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3281,6 +4175,9 @@
       }
     },
     {
+      "counts_locations": "4",
+      "average_price_price_sqft": "234",
+      "value": "Big Bear City, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3292,6 +4189,9 @@
       }
     },
     {
+      "counts_locations": "16",
+      "average_price_price_sqft": "286",
+      "value": "Mentone, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3303,6 +4203,9 @@
       }
     },
     {
+      "counts_locations": "1",
+      "average_price_price_sqft": "181",
+      "value": "Rimforest, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3314,6 +4217,9 @@
       }
     },
     {
+      "counts_locations": "21",
+      "average_price_price_sqft": "165",
+      "value": "Phelan, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3325,6 +4231,9 @@
       }
     },
     {
+      "counts_locations": "1",
+      "average_price_price_sqft": "239",
+      "value": "Oro Grande, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3336,6 +4245,9 @@
       }
     },
     {
+      "counts_locations": "13",
+      "average_price_price_sqft": "338",
+      "value": "Fawnskin, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3347,6 +4259,9 @@
       }
     },
     {
+      "counts_locations": "3",
+      "average_price_price_sqft": "117",
+      "value": "Barstow, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3358,6 +4273,9 @@
       }
     },
     {
+      "counts_locations": "3",
+      "average_price_price_sqft": "260",
+      "value": "Cedar Glen, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3369,6 +4287,9 @@
       }
     },
     {
+      "counts_locations": "9",
+      "average_price_price_sqft": "255",
+      "value": "Twin Peaks, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3380,6 +4301,9 @@
       }
     },
     {
+      "counts_locations": "4",
+      "average_price_price_sqft": "204",
+      "value": "Forest Falls, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3391,6 +4315,9 @@
       }
     },
     {
+      "counts_locations": "38",
+      "average_price_price_sqft": "216",
+      "value": "Highland, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3402,6 +4329,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "267",
+      "value": "Big River, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3413,6 +4343,9 @@
       }
     },
     {
+      "counts_locations": "24",
+      "average_price_price_sqft": "252",
+      "value": "Loma Linda, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3424,6 +4357,9 @@
       }
     },
     {
+      "counts_locations": "71",
+      "average_price_price_sqft": "245",
+      "value": "Rialto, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3435,6 +4371,9 @@
       }
     },
     {
+      "counts_locations": "4",
+      "average_price_price_sqft": "230",
+      "value": "Newberry Springs, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3446,6 +4385,9 @@
       }
     },
     {
+      "counts_locations": "31",
+      "average_price_price_sqft": "181",
+      "value": "Oak Hills, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3457,6 +4399,9 @@
       }
     },
     {
+      "counts_locations": "12",
+      "average_price_price_sqft": "243",
+      "value": "Grand Terrace, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3468,6 +4413,9 @@
       }
     },
     {
+      "counts_locations": "10",
+      "average_price_price_sqft": "322",
+      "value": "Montclair, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3479,6 +4427,9 @@
       }
     },
     {
+      "counts_locations": "1",
+      "average_price_price_sqft": "688",
+      "value": "El Mirage, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3490,6 +4441,9 @@
       }
     },
     {
+      "counts_locations": "1",
+      "average_price_price_sqft": "282",
+      "value": "Blue Jay, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3501,6 +4455,9 @@
       }
     },
     {
+      "counts_locations": "707",
+      "average_price_price_sqft": "501",
+      "value": "San Diego, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3512,6 +4469,9 @@
       }
     },
     {
+      "counts_locations": "98",
+      "average_price_price_sqft": "301",
+      "value": "San Marcos, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3523,6 +4483,9 @@
       }
     },
     {
+      "counts_locations": "98",
+      "average_price_price_sqft": "424",
+      "value": "Carlsbad, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3534,6 +4497,9 @@
       }
     },
     {
+      "counts_locations": "45",
+      "average_price_price_sqft": "569",
+      "value": "Encinitas, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3545,6 +4511,9 @@
       }
     },
     {
+      "counts_locations": "18",
+      "average_price_price_sqft": "355",
+      "value": "Jamul, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3556,6 +4525,9 @@
       }
     },
     {
+      "counts_locations": "11",
+      "average_price_price_sqft": "803",
+      "value": "Del Mar, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3567,6 +4539,9 @@
       }
     },
     {
+      "counts_locations": "134",
+      "average_price_price_sqft": "316",
+      "value": "Chula Vista, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3578,6 +4553,9 @@
       }
     },
     {
+      "counts_locations": "51",
+      "average_price_price_sqft": "390",
+      "value": "Poway, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3589,6 +4567,9 @@
       }
     },
     {
+      "counts_locations": "208",
+      "average_price_price_sqft": "357",
+      "value": "Oceanside, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3600,6 +4581,9 @@
       }
     },
     {
+      "counts_locations": "11",
+      "average_price_price_sqft": "956",
+      "value": "Solana Beach, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3611,6 +4595,9 @@
       }
     },
     {
+      "counts_locations": "116",
+      "average_price_price_sqft": "281",
+      "value": "Fallbrook, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3622,6 +4609,9 @@
       }
     },
     {
+      "counts_locations": "21",
+      "average_price_price_sqft": "342",
+      "value": "Bonita, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3633,6 +4623,9 @@
       }
     },
     {
+      "counts_locations": "11",
+      "average_price_price_sqft": "362",
+      "value": "Bonsall, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3644,6 +4637,9 @@
       }
     },
     {
+      "counts_locations": "71",
+      "average_price_price_sqft": "352",
+      "value": "La Mesa, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3655,6 +4651,9 @@
       }
     },
     {
+      "counts_locations": "89",
+      "average_price_price_sqft": "276",
+      "value": "Ramona, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3666,6 +4665,9 @@
       }
     },
     {
+      "counts_locations": "6",
+      "average_price_price_sqft": "895",
+      "value": "Coronado, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3677,6 +4679,9 @@
       }
     },
     {
+      "counts_locations": "94",
+      "average_price_price_sqft": "324",
+      "value": "Vista, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3688,6 +4693,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "851",
+      "value": "Cardiff by the Sea, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3699,6 +4707,9 @@
       }
     },
     {
+      "counts_locations": "137",
+      "average_price_price_sqft": "313",
+      "value": "El Cajon, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3710,6 +4721,9 @@
       }
     },
     {
+      "counts_locations": "242",
+      "average_price_price_sqft": "297",
+      "value": "Escondido, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3721,6 +4735,9 @@
       }
     },
     {
+      "counts_locations": "50",
+      "average_price_price_sqft": "292",
+      "value": "Valley Center, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3732,6 +4749,9 @@
       }
     },
     {
+      "counts_locations": "39",
+      "average_price_price_sqft": "293",
+      "value": "Alpine, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3743,6 +4763,9 @@
       }
     },
     {
+      "counts_locations": "9",
+      "average_price_price_sqft": "561",
+      "value": "Rancho Santa Fe, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3754,6 +4777,9 @@
       }
     },
     {
+      "counts_locations": "20",
+      "average_price_price_sqft": "837",
+      "value": "La Jolla, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3765,6 +4791,9 @@
       }
     },
     {
+      "counts_locations": "19",
+      "average_price_price_sqft": "464",
+      "value": "Imperial Beach, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3776,6 +4805,9 @@
       }
     },
     {
+      "counts_locations": "4",
+      "average_price_price_sqft": "789",
+      "value": "Pacific Beach, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3787,6 +4819,9 @@
       }
     },
     {
+      "counts_locations": "6",
+      "average_price_price_sqft": "796",
+      "value": "Cardiff, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3798,6 +4833,9 @@
       }
     },
     {
+      "counts_locations": "56",
+      "average_price_price_sqft": "182",
+      "value": "Borrego Springs, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3809,6 +4847,9 @@
       }
     },
     {
+      "counts_locations": "46",
+      "average_price_price_sqft": "290",
+      "value": "Julian, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3820,6 +4861,9 @@
       }
     },
     {
+      "counts_locations": "48",
+      "average_price_price_sqft": "324",
+      "value": "Lakeside, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3831,6 +4875,9 @@
       }
     },
     {
+      "counts_locations": "55",
+      "average_price_price_sqft": "353",
+      "value": "Spring Valley, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3842,6 +4889,9 @@
       }
     },
     {
+      "counts_locations": "10",
+      "average_price_price_sqft": "275",
+      "value": "Boulevard, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3853,6 +4903,9 @@
       }
     },
     {
+      "counts_locations": "8",
+      "average_price_price_sqft": "174",
+      "value": "Warner Springs, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3864,6 +4917,9 @@
       }
     },
     {
+      "counts_locations": "11",
+      "average_price_price_sqft": "385",
+      "value": "National City, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3875,6 +4931,10 @@
       }
     },
     {
+      "price_sqft": "168",
+      "counts_locations": "42",
+      "average_price_price_sqft": "330",
+      "value": "Santee, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3886,6 +4946,9 @@
       }
     },
     {
+      "counts_locations": "4",
+      "average_price_price_sqft": "196",
+      "value": "Ranchita, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3897,6 +4960,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "273",
+      "value": "Jacumba, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3908,6 +4974,9 @@
       }
     },
     {
+      "counts_locations": "16",
+      "average_price_price_sqft": "280",
+      "value": "Campo, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3919,6 +4988,9 @@
       }
     },
     {
+      "counts_locations": "208",
+      "average_price_price_sqft": "357",
+      "value": "n/a",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3930,6 +5002,9 @@
       }
     },
     {
+      "counts_locations": "10",
+      "average_price_price_sqft": "344",
+      "value": "Palomar Mountain, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3941,6 +5016,9 @@
       }
     },
     {
+      "counts_locations": "16",
+      "average_price_price_sqft": "254",
+      "value": "Pauma Valley, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3952,6 +5030,9 @@
       }
     },
     {
+      "counts_locations": "15",
+      "average_price_price_sqft": "301",
+      "value": "Descanso, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3963,6 +5044,9 @@
       }
     },
     {
+      "counts_locations": "5",
+      "average_price_price_sqft": "276",
+      "value": "Santa Ysabel, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3974,6 +5058,9 @@
       }
     },
     {
+      "counts_locations": "10",
+      "average_price_price_sqft": "302",
+      "value": "Pine Valley, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3985,6 +5072,9 @@
       }
     },
     {
+      "counts_locations": "21",
+      "average_price_price_sqft": "369",
+      "value": "Lemon Grove, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -3996,6 +5086,9 @@
       }
     },
     {
+      "counts_locations": "4",
+      "average_price_price_sqft": "237",
+      "value": "Dulzura, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4007,6 +5100,9 @@
       }
     },
     {
+      "counts_locations": "5",
+      "average_price_price_sqft": "368",
+      "value": "Rancho Bernardo, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4018,6 +5114,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "346",
+      "value": "Paradise Hills, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4029,6 +5128,9 @@
       }
     },
     {
+      "counts_locations": "116",
+      "average_price_price_sqft": "281",
+      "value": "Fallbrook, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4040,6 +5142,9 @@
       }
     },
     {
+      "counts_locations": "1",
+      "average_price_price_sqft": "274",
+      "value": "Potrero, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4051,6 +5156,9 @@
       }
     },
     {
+      "counts_locations": "1",
+      "average_price_price_sqft": "725",
+      "value": "Ocean Beach, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4062,6 +5170,9 @@
       }
     },
     {
+      "counts_locations": "38",
+      "average_price_price_sqft": "619",
+      "value": "Pismo Beach, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4073,6 +5184,9 @@
       }
     },
     {
+      "counts_locations": "184",
+      "average_price_price_sqft": "333",
+      "value": "Paso Robles, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4084,6 +5198,9 @@
       }
     },
     {
+      "counts_locations": "30",
+      "average_price_price_sqft": "458",
+      "value": "Los Osos, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4095,6 +5212,9 @@
       }
     },
     {
+      "counts_locations": "49",
+      "average_price_price_sqft": "454",
+      "value": "Templeton, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4106,6 +5226,9 @@
       }
     },
     {
+      "counts_locations": "74",
+      "average_price_price_sqft": "469",
+      "value": "Cambria, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4117,6 +5240,9 @@
       }
     },
     {
+      "counts_locations": "55",
+      "average_price_price_sqft": "516",
+      "value": "Morro Bay, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4128,6 +5254,9 @@
       }
     },
     {
+      "counts_locations": "89",
+      "average_price_price_sqft": "383",
+      "value": "Nipomo, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4139,6 +5268,9 @@
       }
     },
     {
+      "counts_locations": "82",
+      "average_price_price_sqft": "406",
+      "value": "Arroyo Grande, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4150,6 +5282,9 @@
       }
     },
     {
+      "counts_locations": "95",
+      "average_price_price_sqft": "491",
+      "value": "San Luis Obispo, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4161,6 +5296,9 @@
       }
     },
     {
+      "counts_locations": "12",
+      "average_price_price_sqft": "476",
+      "value": "Avila Beach, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4172,6 +5310,9 @@
       }
     },
     {
+      "counts_locations": "21",
+      "average_price_price_sqft": "607",
+      "value": "Cayucos, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4183,6 +5324,9 @@
       }
     },
     {
+      "counts_locations": "15",
+      "average_price_price_sqft": "528",
+      "value": "Creston, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4194,6 +5338,9 @@
       }
     },
     {
+      "counts_locations": "94",
+      "average_price_price_sqft": "358",
+      "value": "Atascadero, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4205,6 +5352,9 @@
       }
     },
     {
+      "counts_locations": "33",
+      "average_price_price_sqft": "390",
+      "value": "San Miguel, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4216,6 +5366,9 @@
       }
     },
     {
+      "counts_locations": "15",
+      "average_price_price_sqft": "318",
+      "value": "Santa Margarita, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4227,6 +5380,9 @@
       }
     },
     {
+      "counts_locations": "28",
+      "average_price_price_sqft": "429",
+      "value": "Oceano, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4238,6 +5394,9 @@
       }
     },
     {
+      "counts_locations": "10",
+      "average_price_price_sqft": "254",
+      "value": "Shandon, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4249,6 +5408,9 @@
       }
     },
     {
+      "counts_locations": "32",
+      "average_price_price_sqft": "416",
+      "value": "Grover Beach, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4260,6 +5422,9 @@
       }
     },
     {
+      "counts_locations": "1",
+      "average_price_price_sqft": "164",
+      "value": "Parkfield, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4271,6 +5436,8 @@
       }
     },
     {
+      "average_price_price_sqft": "818",
+      "value": "Santa Barbara, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4282,6 +5449,9 @@
       }
     },
     {
+      "counts_locations": "3",
+      "average_price_price_sqft": "771",
+      "value": "Carpinteria, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4293,6 +5463,9 @@
       }
     },
     {
+      "counts_locations": "32",
+      "average_price_price_sqft": "289",
+      "value": "Lompoc, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4304,6 +5477,9 @@
       }
     },
     {
+      "counts_locations": "84",
+      "average_price_price_sqft": "289",
+      "value": "Santa Maria, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4315,6 +5491,9 @@
       }
     },
     {
+      "counts_locations": "1",
+      "average_price_price_sqft": "396",
+      "value": "Montecito, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4326,6 +5505,9 @@
       }
     },
     {
+      "counts_locations": "5",
+      "average_price_price_sqft": "535",
+      "value": "Santa Ynez, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4337,6 +5519,9 @@
       }
     },
     {
+      "counts_locations": "1",
+      "average_price_price_sqft": "1,612",
+      "value": "Cuyama, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4348,6 +5533,9 @@
       }
     },
     {
+      "counts_locations": "1",
+      "average_price_price_sqft": "604",
+      "value": "New Cuyama, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4359,6 +5547,9 @@
       }
     },
     {
+      "counts_locations": "4",
+      "average_price_price_sqft": "302",
+      "value": "Los Alamos, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4370,6 +5561,9 @@
       }
     },
     {
+      "counts_locations": "1",
+      "average_price_price_sqft": "608",
+      "value": "Solvang, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4381,6 +5575,9 @@
       }
     },
     {
+      "counts_locations": "1",
+      "average_price_price_sqft": "144",
+      "value": "Guadalupe, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4392,6 +5589,9 @@
       }
     },
     {
+      "counts_locations": "1",
+      "average_price_price_sqft": "268",
+      "value": "Vandenberg Village, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4403,6 +5603,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "399",
+      "value": "Buellton, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4414,6 +5617,9 @@
       }
     },
     {
+      "counts_locations": "2",
+      "average_price_price_sqft": "642",
+      "value": "Goleta, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4425,6 +5631,9 @@
       }
     },
     {
+      "counts_locations": "61",
+      "average_price_price_sqft": "485",
+      "value": "Westlake Village, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4436,6 +5645,9 @@
       }
     },
     {
+      "counts_locations": "120",
+      "average_price_price_sqft": "499",
+      "value": "Ventura, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4447,6 +5659,9 @@
       }
     },
     {
+      "counts_locations": "120",
+      "average_price_price_sqft": "359",
+      "value": "Camarillo, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4458,6 +5673,9 @@
       }
     },
     {
+      "counts_locations": "45",
+      "average_price_price_sqft": "359",
+      "value": "Santa Paula, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4469,6 +5687,9 @@
       }
     },
     {
+      "counts_locations": "106",
+      "average_price_price_sqft": "395",
+      "value": "Thousand Oaks, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4480,6 +5701,9 @@
       }
     },
     {
+      "counts_locations": "63",
+      "average_price_price_sqft": "381",
+      "value": "Newbury Park, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4491,6 +5715,9 @@
       }
     },
     {
+      "counts_locations": "5",
+      "average_price_price_sqft": "495",
+      "value": "Lake Sherwood, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4502,6 +5729,9 @@
       }
     },
     {
+      "counts_locations": "126",
+      "average_price_price_sqft": "337",
+      "value": "Simi Valley, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4513,6 +5743,9 @@
       }
     },
     {
+      "counts_locations": "43",
+      "average_price_price_sqft": "566",
+      "value": "Ojai, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -4524,6 +5757,9 @@
       }
     },
     {
+      "counts_locations": "8",
+      "average_price_price_sqft": "391",
+      "value": "Somis, CA",
       "type": "Feature",
       "properties": {},
       "geometry": {

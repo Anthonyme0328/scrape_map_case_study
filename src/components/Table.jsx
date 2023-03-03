@@ -1,22 +1,17 @@
-import React from 'react'
+import React, {useState} from 'react'
 import { Box } from '@mui/system';
 import { DataGrid } from '@mui/x-data-grid';
 import csvdata from '../csvjson.json'
-import { Avatar } from '@mui/material';
 
 
 
-// Dont forget about the image section
 
 
 const Table = () => {
+
 let i = 0
-
-const addImg = csvdata.map((x, i) => ({...x, img: `images/${i++}.jpg`}))
-
-
-// console.log('here', addImg[Object.keys(csvdata)].img)
-
+ 
+const addImg = csvdata.map((x, i) => ({...x, img: `images/${i++})}.jpg`}))
 
   const columns= [
     { 
@@ -38,6 +33,14 @@ const addImg = csvdata.map((x, i) => ({...x, img: `images/${i++}.jpg`}))
       field: 'n_citi',
       headerName: 'N_Citi',
       width: 75,
+    },
+    {
+      field: 'img',
+      headerName: 'Image',
+      width: 200,     
+      renderCell: () => <div>
+            <img src={`images/${i++}.jpg`} loading='lazy' alt='Large Dataset slow to load' />
+        </div>
     },
     {
       field: 'bed',
@@ -74,12 +77,6 @@ const addImg = csvdata.map((x, i) => ({...x, img: `images/${i++}.jpg`}))
       headerName: 'Avg_Price_Price_Sqft',
       width: 200,
     },
-    // {
-    //   field: 'img',
-    //   headerName: 'Image',
-    //   width: 200,
-    //   renderCell: () => <img src={`images/${i++}.jpg`} />
-    // },
   ];
   
   const rows = addImg.map(
@@ -97,10 +94,9 @@ const addImg = csvdata.map((x, i) => ({...x, img: `images/${i++}.jpg`}))
         average_price_price_sqft: data.average_price_price_sqft,
         img: data.img
       }))
-    
+
 
   
-
   return (
     <Box sx={{ height: '25em', width: '98%', border: '2px black solid', boxShadow: '5px 10px grey', ml: '1em', mt: '1em' }}>
  
@@ -112,8 +108,6 @@ const addImg = csvdata.map((x, i) => ({...x, img: `images/${i++}.jpg`}))
         checkboxSelection
 
       />
-
-      {/* <img src='../../public/images/0.jpg'/> */}
     
     </Box>
   )
