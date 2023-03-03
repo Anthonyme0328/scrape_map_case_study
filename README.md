@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+Thank you for chekcing out my case study
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+*****************************************************************************************************************************************************
 
-## Available Scripts
+instructions:
 
-In the project directory, you can run:
+1 clone repo from my github page: https://github.com/Anthonyme0328/scrape_map_case_study/
+2 In the command line please navigate to the main folder named: Scrape_Map_Case_Study
+3 now in the command line run: npm init
+3 once the init is finished please run: npm start
 
-### `npm start`
+this will start the react application and you should be able to interact with all the pages
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-### `npm test`
+other instructions
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Filter in table:
 
-### `npm run build`
+1. Each column is filterable and sortable
+2. Its a 3 click System for alaphabetical/ ascii sorting just click the column header
+3. Clicking the three dots that show in the column header will allow you to filter by name or value with several different parameters
+  - contain
+  - equals
+  - starts with
+  - ends with
+  - is empty
+  - is not empty
+  - is any of
+4. please also select an option in the "columns" section
+5. after selecting one of the options please type your filter param in the box a located to the left of the parameter
+6. once finished you can click the "funnel" like icon that is not in the filtered column header to reopen the filter adn clicking X clears it
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Map
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Click on the zoom in/ zoom out to take a closer look at SoCal (it works just like zooming on google maps)
+2. Click on the "pin" for more info
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+Graphs
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. hovering over points on the charts will give you more info
+2. To click on and off the types of datasets please click the color or name of the dataset located in the key
