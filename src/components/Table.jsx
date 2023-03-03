@@ -113,7 +113,7 @@ const addImg = csvdata.map((x, i) => ({...x, img: `images/${i++}.jpg`}))
 
       />
 
-      <img src='../../public/images/0.jpg'/>
+      {/* <img src='../../public/images/0.jpg'/> */}
     
     </Box>
   )

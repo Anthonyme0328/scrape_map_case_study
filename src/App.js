@@ -1,4 +1,5 @@
 import './App.css';
+import CaliMap from './components/CaliMap';
 import ChartOne from './components/ChartOne';
 import ChartTwo from './components/ChartTwo';
 import Header from './components/Header';
@@ -9,8 +10,7 @@ function App() {
     <div className="App">
       <Header />
       <Table />
-      
-
+      <CaliMap />
       <ChartOne />
       <ChartTwo />
     </div>
